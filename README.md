@@ -1,4 +1,4 @@
-![Airport Watch Logo](logo.png)
+![Airport Watch Logo](https://images2.imgbox.com/9b/09/LXNImvuq_o.png)
 # Airport Watch  
 Airport Watch was created as an aviation-enthusiast project to monitor which flights arrive and depart near my house, since I live fairly close to an airport.  
 This code uses the FlightAware API to monitor flight arrivals and departures from a specified airport via its airport code. It sends push notifications to your phone using Pushover when new flights are detected.
